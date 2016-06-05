@@ -510,7 +510,6 @@ public class MainFrame extends JFrame implements KeyListener{
 			undoList.add(filetemp);
 			flag = 0;
 			filetemp = textArea.getText();
-			System.out.println(filetemp);
 			time = System.currentTimeMillis();
 		}
 //		else if(e.getKeyCode() == KeyEvent.VK_BACK_SPACE){
