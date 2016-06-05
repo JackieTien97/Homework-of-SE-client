@@ -59,7 +59,7 @@ public class MainFrame extends JFrame implements KeyListener{
 
 
 	public MainFrame() {
-		// 鍒涘缓绐椾綋
+		// 创建窗体
 		frame = new JFrame();
 		frame.setTitle("BF Client");
 		
